@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
 
 <h3 align="center">
-  Hi there, I'm Mu'min Ahmad
+  Hi there, I'm Mohamed Tarek
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,17 +12,16 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working as an Implementation Engineer at Data Gear, specializing in building and implementing business process solutions.
-- 🌱 I'm actively expanding my knowledge in AI and Machine Learning through my studies at the Information Technology Institute (ITI).
-- 👯 I'm eager to collaborate on projects that involve Business Process Management (BPM), web development (especially using Java, Spring, and Angular), or DevOps practices. 
-- 🤔 I'm currently seeking to deepen my understanding of advanced machine learning algorithms and their practical applications.
-- 💬 Ask me about my experience with Flowable and Activiti for BPM, building scalable web applications, or my journey from Mechatronics Engineering to Software Development!
-- ⚡ Fun fact: I'm passionate about football tactics and data-driven scouting - I love exploring how data can enhance the beautiful game!
+- 🔭 I'm currently a fresh Software developer, specializing in building and full Stack web applications.
+- 🌱 I'm actively expanding my knowledge in git and gitHub throught my stdying at almadrasa course.
+- 👯 I'm eager to collaborate on projects that involve asp .net framework, web development (especially using C#). 
+- 🤔 I'm currently seeking to deepen my understanding of advanced back-end development and their practical applications.
+- ⚡ Fun fact: I'm passionate about football tactics and video-games - I love exploring how data can enhance the beautiful game!
 
 <br/>
 
 ### 🔗 Connect with Me 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mumin-ahmad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="www.linkedin.com/in/mohamed-tarek-7430b8276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <!-- Add more platforms as needed -->
 
